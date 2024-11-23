@@ -1,0 +1,310 @@
+[
+    {
+        "cmd": "LOAD_CONST",
+        "operands": [
+            254,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "LOAD_CONST",
+        "operands": [
+            186,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            33,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "LOAD_CONST",
+        "operands": [
+            123,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "WRITE_MEM",
+        "operands": [
+            53,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "LOAD_CONST",
+        "operands": [
+            100,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "BIN_OP_NE",
+        "operands": [
+            102,
+            3,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "LOAD_CONST",
+        "operands": [
+            7,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "WRITE_MEM",
+        "operands": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "LOAD_CONST",
+        "operands": [
+            10,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "WRITE_MEM",
+        "operands": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "LOAD_CONST",
+        "operands": [
+            10,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "WRITE_MEM",
+        "operands": [
+            8,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "LOAD_CONST",
+        "operands": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "WRITE_MEM",
+        "operands": [
+            16,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            16,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "BIN_OP_NE",
+        "operands": [
+            32,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "JUMP_IF_ZERO",
+        "operands": [
+            165,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            16,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "ADD",
+        "operands": []
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            16,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            8,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "ADD",
+        "operands": []
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "BIN_OP_NE",
+        "operands": []
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            16,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "ADD",
+        "operands": []
+    },
+    {
+        "cmd": "WRITE_MEM",
+        "operands": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "READ_MEM",
+        "operands": [
+            16,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "LOAD_CONST",
+        "operands": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "ADD",
+        "operands": []
+    },
+    {
+        "cmd": "WRITE_MEM",
+        "operands": [
+            16,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "cmd": "JUMP",
+        "operands": [
+            75,
+            0,
+            0,
+            0
+        ]
+    }
+]
